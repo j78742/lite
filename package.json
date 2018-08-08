@@ -37,7 +37,7 @@
   },
   "dependencies": {
     "caniuse-db": "^1.0.30000830",
-    "chalk": "^2.3.0",
+    "chalk": "^2.4.1",
     "classnames": "^2.2.5",
     "config": "^2.0.1",
     "gatsby": "^1.9.149",
